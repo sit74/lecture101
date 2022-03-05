@@ -1,0 +1,10 @@
+numFrist = int(input("number1"))
+numSecond = int(input("number2"))
+q1 = numFrist + numSecond
+q2 = numFrist - numSecond
+q3 = numFrist * numSecond
+q4 = numFrist / numSecond
+print(numFrist, "+", numSecond, "=", q1)
+print(numFrist, "-", numSecond, "=", q2)
+print(numFrist, "*", numSecond, "=", q3)
+print(numFrist, "/", numSecond, "=", q4)
